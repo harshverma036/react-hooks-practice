@@ -1,0 +1,9 @@
+.container-content {
+    height: 100vh !important;
+}
+.row {
+    margin: 0;
+}
+.count-text {
+    font-size: 5rem !important;
+}
