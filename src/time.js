@@ -7,6 +7,7 @@ function Time() {
         const newTime = new Date().toLocaleTimeString();
         time(newTime);
     }
+    setTimeout(getCurrentTime, 1000);
     return (
         <div className="row justify-content-center container-content align-items-center">
             <div className="col col-lg-4 col-md-7 col-11 d-flex flex-column align-items-center text-center">
