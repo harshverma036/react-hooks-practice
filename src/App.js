@@ -6,7 +6,6 @@ const App = () => {
     const increaseCount = () => {
         setCount(count + 1);
     }
-
     return (
         <div className="">
             <div className="row justify-content-center container-content align-items-center">

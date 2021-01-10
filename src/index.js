@@ -4,7 +4,7 @@ import App from './app';
 import Time from './time';
 
 ReactDOM.render(
-  <Time />,
+  <App />,
   document.getElementById('root')
 );
 
